@@ -5,8 +5,11 @@ body {
 body {
   display: grid;
   place-items: center;
-
-  background: lightblue;
+}
+main {
+  background: url(images/background.png);
+  width: 375px;
+  height: 812px;
 }
 h1 {
   font-size: 1.5rem;
@@ -14,7 +17,4 @@ h1 {
 a {
   color: black;
   text-decoration: none;
-}
-p {
-  color: green;
 }
