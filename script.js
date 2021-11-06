@@ -1,0 +1,5 @@
+const github = 'rafavirginio'
+const youtube = 'UCoBEQHHeIgphjsdka3VoHzw'
+const instagram = 'rafavirgiinio'
+const facebook = '100001573343039'
+const linkedin = 'rafael-virgínio-da-silva-288a8468'
