@@ -2,8 +2,7 @@ const linksSocialMedia = {
   github: 'rafavirginio',
   youtube: 'channel/UCoBEQHHeIgphjsdka3VoHzw',
   instagram: 'rafavirgiinio',
-  facebook: '100001573343039',
-  linkedin: 'in/rafael-virgínio-da-silva-288a8468'
+  facebook: '100001573343039'
 }
 
 function changeSocialMediaLinks() {
