@@ -1,4 +1,4 @@
-# Chachá Virtual NLW
+# Cracha Virtual NLW
 
 <img src="images/screen.png">
 
